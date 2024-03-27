@@ -6,4 +6,4 @@ Membros:
 ## Existem 2 arquivos no projeto
 *  Menu interativo 
 * Funções executadas automaticamente
-Todos possuem os comentários identificando os princípios de projeto utilizados e as funções implementadas
+Todos possuem os comentários identificando os princípios de projeto utilizados e as funções implementadas em Python
